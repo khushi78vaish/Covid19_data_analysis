@@ -91,7 +91,7 @@ The dataset is sourced from [this public URL](https://raw.githubusercontent.com/
 ## 🙋‍♀️ Author
 
 **Khushi Vaish**  
-B.Tech | Data Science Enthusiast | [LinkedIn](#)
+B.Tech | Data Science Enthusiast
 
 ---
 
